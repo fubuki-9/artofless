@@ -4,7 +4,7 @@ export default function () {
       <div className="frame__title">
         <h1 className="frame__title-main">
           Made with ❤️ {" "}
-          <a href="infiniteorbit.live">by Maxx</a>
+          <a href="https://www.infiniteorbit.live">by Maxx</a>
         </h1>
       </div>
       <a
