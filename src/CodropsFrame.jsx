@@ -21,7 +21,7 @@ export default function () {
         </svg>
       </a>
       <a className="frame__prev" href="#">
-        Back to top
+        Home
       </a>
     </div>
   );
