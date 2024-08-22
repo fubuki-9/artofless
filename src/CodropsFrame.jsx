@@ -3,8 +3,8 @@ export default function () {
     <div className="frame container">
       <div className="frame__title">
         <h1 className="frame__title-main">
-          Made with ❤️ {" "}
-          <a href="https://www.infiniteorbit.live">by Maxx</a>
+          Made with ❤️ by{" "}
+          <a href="https://www.infiniteorbit.live">Maxx</a>
         </h1>
       </div>
       <a
